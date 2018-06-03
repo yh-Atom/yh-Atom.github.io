@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-5-31-you-life.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="648">
+              <first_editor relative-caret-position="720">
                 <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               </first_editor>
               <second_editor />
@@ -135,16 +135,15 @@
       <workItem from="1527215748591" duration="1729000" />
       <workItem from="1527392860929" duration="1819000" />
       <workItem from="1528020020539" duration="575000" />
-      <workItem from="1528020677680" duration="263000" />
+      <workItem from="1528020677680" duration="397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15798000" />
+    <option name="totallyTimeSpent" value="15932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22474378" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,7 +380,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-5-31-you-life.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="648">
+          <first_editor relative-caret-position="720">
             <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
